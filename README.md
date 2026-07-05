@@ -4,7 +4,7 @@
 Building **SportsVault** into a full-stack sports prediction platform — live odds, AI news ticker, real-time crash game, and parlay engine
 
 👥 I'm looking to collaborate on  
-AI-driven projects, full-stack product building, and anything with real-world impact
+projects which are complex and solve real world problems 
 
 🤝 I'm looking for help with  
 Scaling backend systems and breaking into the industry as a developer
@@ -16,7 +16,7 @@ DevOps, Kubernetes, AWS, and advanced system design
 Backend development, Node.js, PostgreSQL, React, WebSockets, and AI integrations
 
 ⚡ Fun fact  
-I built a provably fair real-time crash game with WebSockets and PostgreSQL transactions from scratch — and an AI tool that analyses any GitHub repo in plain English 🚀
+I built a provably fair real-time crash game with WebSockets and PostgreSQL transactions from scratch  and an AI tool that analyses any GitHub repo in plain English 🚀
 
 ---
 
@@ -45,16 +45,18 @@ I built a provably fair real-time crash game with WebSockets and PostgreSQL tran
 ![Supabase](https://img.shields.io/badge/Supabase-3ECF8E?style=for-the-badge&logo=supabase&logoColor=white)
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
 ![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
+![C++](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
 
 ---
 
 ## 🚀 Featured Projects:
 
 ### [SportsVault](https://sportsvault-bets.vercel.app/login) — Sports Prediction Platform
-> Full-stack platform with real World Cup data, live odds, parlay engine, AI news ticker, and a real-time multiplayer crash game built with WebSockets and PostgreSQL transactions
+> Full-stack platform with real World Cup data, live odds, parlay engine, AI news ticker, and a real-time multiplayer crash game built with WebSockets and PostgreSQL transactions.
+> Basically a betting engine to try and test your strategies on for free
 
-### [RepoMind](https://repomind.vercel.app) — AI GitHub Codebase Analyser
-> Paste any public GitHub repo URL — RepoMind fetches the source files and lets you ask questions about architecture, bugs, and how to extend it using Groq LLM
+### [RepoMind] — AI GitHub Codebase Analyser
+> Paste any public GitHub repo URL and RepoMind fetches the source files and lets you ask questions about architecture, bugs, and how to extend it using Groq LLM
 
 ---
 
@@ -66,4 +68,4 @@ I built a provably fair real-time crash game with WebSockets and PostgreSQL tran
 
 ---
 
-[![](https://visitcount.itsvg.in/api?id=ChiraagDubey&icon=6&color=6)](https://visitcount.itsvg.in)<img width="1870" height="737" alt="Screenshot 2026-07-05 223528" src="https://github.com/user-attachments/assets/b966a127-2015-4eb7-9683-0bfd0b2a3ce8" />
+
